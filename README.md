@@ -67,4 +67,4 @@ To get started, please download the SQL files from the following link and run th
 
 Please refer to the repository for screenshots of the outputs for each requirement.
 
-"https://github.com/EssamHisham/GravityBooks-ETL-SSIS-SSAS-Project/blob/master/ScreenCaptures/DWH%20PROJECT1.jpeg?raw=true"
+![DWH PROJECT1](https://github.com/EssamHisham/GravityBooks-ETL-SSIS-SSAS-Project/blob/master/ScreenCaptures/DWH%20PROJECT1.jpeg?raw=true)
