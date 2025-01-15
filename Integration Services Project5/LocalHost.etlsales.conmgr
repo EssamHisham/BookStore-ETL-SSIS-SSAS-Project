@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.etlsales"
+  DTS:DTSID="{473B2E49-255A-44B7-AA78-0F1B2A0B433A}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=etlsales;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Integration Services Project5-{473B2E49-255A-44B7-AA78-0F1B2A0B433A}LocalHost.etlsales;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

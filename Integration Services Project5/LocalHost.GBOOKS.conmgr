@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.GBOOKS"
+  DTS:DTSID="{EEE21FF3-D626-4BBD-805A-6C45B5430EAA}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=.;Initial Catalog=GBOOKS;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Integration Services Project5-{EEE21FF3-D626-4BBD-805A-6C45B5430EAA}LocalHost.GBOOKS;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
