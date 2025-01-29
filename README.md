@@ -1,5 +1,6 @@
 # Bookstore Data Warehouse Project
 
+![DWH PROJECT1](https://github.com/EssamHisham/GravityBooks-ETL-SSIS-SSAS-Project/blob/master/ScreenCaptures/DWH%20PROJECT1.jpeg?raw=true)
 ## Project Overview
 
 This project involves modeling and building a data warehouse for a fictional bookstore, Gravity Bookstore. The goal is to capture and analyze information about books, customers, and sales through a well-structured data warehouse. The project includes the creation of a data warehouse, ETL processes using SQL Server Integration Services (SSIS), and OLAP cube development using SQL Server Analysis Services (SSAS).
