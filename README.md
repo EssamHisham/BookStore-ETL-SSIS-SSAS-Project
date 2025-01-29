@@ -1,4 +1,4 @@
-# Gravity Bookstore Data Warehouse Project
+# Bookstore Data Warehouse Project
 
 ## Project Overview
 
